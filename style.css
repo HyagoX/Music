@@ -56,5 +56,17 @@ body{
 .bladeandbath{
     text-align: center;
     font-size: 20px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.esquerda__bab{
+    text-align: center;
+
+}
+
+.direita__bab{
+    text-align: center;
 
 }
