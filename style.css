@@ -1,0 +1,14 @@
+:root {
+    --cor-fundo:#404040;
+    --cor-fundo-header:#080808;
+    --cor-texto:#fff;
+    --cor-botoes:#310000;
+
+}
+
+header{
+    background-color: var(--cor-fundo-header);
+    padding: 25px;
+    border: solid grey 3px;
+
+}
