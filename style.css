@@ -30,6 +30,12 @@ body{
 
 }
 
+.esquerda__principal{
+    display: flex;
+    flex-direction: column;
+
+}
+
 .links{
     padding: 10px;
     background-color: var(--cor-botoes);
