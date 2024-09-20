@@ -11,5 +11,5 @@ header{
     padding: 25px;
     border: solid grey 3px;
     text-align: center;
-
+    color: var(--cor-texto);
 }
