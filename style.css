@@ -63,6 +63,8 @@ body{
 
 .esquerda__bab{
     text-align: center;
+    display: flex;
+    flex-direction: column;
 
 }
 
