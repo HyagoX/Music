@@ -82,7 +82,7 @@ body{
     font-size: 20px;
     margin: 5px;
     text-decoration: none;
-    text-shadow: #ffffff ;
+    text-shadow: #ffffff solid 0.01em;
 }
 
 .imagem2{
