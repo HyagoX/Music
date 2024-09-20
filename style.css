@@ -13,4 +13,27 @@ header{
     border-radius: 10px;
     text-align: center;
     color: var(--cor-texto);
+
+}
+
+body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    
+}
+
+.decalius{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+.links{
+    padding: 5px;
+    background-color: var(--cor-botoes);
+    border: black solid 1px;
+    border-radius: 5px;
+    text-align: center;
 }
