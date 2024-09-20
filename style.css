@@ -10,6 +10,7 @@ header{
     background-color: var(--cor-fundo-header);
     padding: 25px;
     border: solid grey 3px;
+    border-radius: 10px;
     text-align: center;
     color: var(--cor-texto);
 }
