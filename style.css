@@ -31,7 +31,7 @@ body{
 }
 
 .links{
-    padding: 5px;
+    padding: 10px;
     background-color: var(--cor-botoes);
     border: black solid 1px;
     border-radius: 5px;
