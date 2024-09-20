@@ -80,4 +80,5 @@ body{
     border-radius: 5px;
     color: var(--cor-texto);
     font-size: 20px;
+    margin: 5px;
 }
