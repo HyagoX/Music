@@ -1,18 +1,18 @@
 :root {
-    --cor-fundo:#404040;
-    --cor-fundo-header:#080808;
-    --cor-texto:#fff;
-    --cor-botoes:#310000;
+    --cor-primaria:#181C14;
+    --cor-primaria-header:#3C3D37;
+    --cor-secundaria:#ECDFCC;
+    --cor-terciaria:#697565;
 
 }
 
 header{
-    background-color: var(--cor-fundo-header);
+    background-color: var(--cor-primaria-header);
     padding: 25px;
     border: solid grey 3px;
     border-radius: 10px;
     text-align: center;
-    color: var(--cor-texto);
+    color: var(--cor-secundaria);
 
 }
 
@@ -24,8 +24,8 @@ header{
 }
 
 body{
-    background-color: var(--cor-fundo);
-    color: var(--cor-texto);
+    background-color: var(--cor-primaria);
+    color: var(--cor-secundaria);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -46,13 +46,13 @@ body{
 .links{
     font-size: 20px;
     padding: 15px;
-    background-color: var(--cor-botoes);
+    background-color: var(--cor-terciaria);
     border: black solid 1px;
     border-radius: 5px;
     text-align: center;
     margin: 5px;
     text-decoration: none;
-    color: var(--cor-texto);
+    color: var(--cor-secundaria);
 }
 
 .imagem1{
@@ -82,10 +82,10 @@ body{
 
 .links2{
     padding: 15px;
-    background-color: var(--cor-botoes);
+    background-color: var(--cor-terciaria);
     border: black solid 1px;
     border-radius: 5px;
-    color: var(--cor-texto);
+    color: var(--cor-secundaria);
     font-size: 20px;
     margin: 5px;
     text-decoration: none;
